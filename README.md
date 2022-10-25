@@ -1,2 +1,2 @@
 # dbcli
-Better  Universal  CLIs  for SQL databases
+Better  Universal  CLIs  for SQL Databases
